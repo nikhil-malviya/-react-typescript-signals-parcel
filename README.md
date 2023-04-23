@@ -1,6 +1,4 @@
-# React Template using Typescript, Signals and Parcel
-
-## Building the application
+## React Template using Typescript, Signals and Parcel
 
 In order to build the application, you need to have the following tools installed:
 
@@ -19,7 +17,7 @@ Build the application:
 yarn build
 ```
 
-## Running the application locally
+Running the application locally
 
 ```bash
 yarn start
